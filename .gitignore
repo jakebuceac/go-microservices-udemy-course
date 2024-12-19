@@ -4,3 +4,4 @@ broker-service/brokerApp
 authentication-service/authApp
 project/db-data/
 logger-service/loggerApp
+mail-service/mailApp
